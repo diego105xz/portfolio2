@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-[Meu portfólio](https://meu-portifolio-kappa.vercel.app/), um espaço para eu mostrar minha vitrine com conhecimentos.
+[Meu portfólio](https://diego105xz.github.io/portfolio2/), um espaço para eu mostrar minha vitrine com conhecimentos.
 
 ## Layout mobile
 ![Mobile](https://github.com/diego105xz/RepositorioImg/blob/main/PortfolioMobile.jpg)
