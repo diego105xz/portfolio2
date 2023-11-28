@@ -15,9 +15,7 @@
 ## Front end
 - HTML
 - CSS
-- bootstrap
-- JavaScript
-- jquery
+
 
 # Autor
 
